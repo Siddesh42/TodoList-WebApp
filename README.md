@@ -33,8 +33,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 ext-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot 2023-09-06 190046](https://github.com/Siddesh42/TodoList-WebApp/assets/134169184/e6e26bac-e98b-42f4-8b4a-5621f0e7e703)
 
-![Uploading Screenshot 2023-09-06 190046.png…]()
+
 
 
 
